@@ -1,0 +1,49 @@
+{
+  "resources" : {
+    "includes" : [ {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.$SortingAndOrderArguments$IntrospectionRef\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.commands.$DierSaveRequest$IntrospectionRef\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.commands.$DierUpdateCommand$IntrospectionRef\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.commands.$SchuurAddDierCommand$IntrospectionRef\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.commands.$SchuurSaveCommand$IntrospectionRef\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.domain.$Dier$IntrospectionRef\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.beans.BeanIntrospectionReference/example.micronaut.domain.$Schuur$IntrospectionRef\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.graal.GraalReflectionConfigurer/example.micronaut.domain.$Dier$ReflectConfig\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.core.graal.GraalReflectionConfigurer/example.micronaut.domain.$Schuur$ReflectConfig\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.$ApplicationConfigurationProperties$Definition$Reference\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.controllers.$DierController$Definition$Intercepted$Definition$Reference\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.controllers.$DierController$Definition$Reference\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.controllers.$SchuurController$Definition$Intercepted$Definition$Reference\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.controllers.$SchuurController$Definition$Reference\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.repositories.$DierRepositoryImpl$Definition$Intercepted$Definition$Reference\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.repositories.$DierRepositoryImpl$Definition$Reference\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.repositories.$SchuurRepositoryImpl$Definition$Intercepted$Definition$Reference\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/micronaut/io.micronaut.inject.BeanDefinitionReference/example.micronaut.repositories.$SchuurRepositoryImpl$Definition$Reference\\E"
+    }, {
+      "pattern" : "\\QMETA-INF/spring-configuration-metadata.json\\E"
+    }, {
+      "pattern" : "\\Qapplication.yml\\E"
+    }, {
+      "pattern" : "\\Qlogback.xml\\E"
+    } ],
+    "excludes" : [ ]
+  },
+  "bundles" : [ ]
+}
